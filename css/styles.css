@@ -140,6 +140,23 @@ a:visited {
     background-image: url("http://imgur.com/zLQFVKP.jpg");
 }
 
+#alejandra-campero-cover {
+    background-image: url("http://imgur.com/Xg5X986.jpg ");
+    border: 3px #FF1493 solid;
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    -o-transition: 0.2s;
+    transition: 0.2s;
+    background-position: top;
+}
+
+#alejandra-campero-card {
+    background-image: url("http://imgur.com/eCsM6Y6.jpg");
+      display: block;
+      margin: auto;
+      background-position: top;
+      border: 1.5px #FFF solid;
+}
 
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
@@ -486,7 +503,7 @@ a:visited {
 #emily-sugano-cover {
     background-image: url("http://i.imgur.com/HYFTqwa.jpg");
 }
- 
+
 #emily-sugano-card {
     background-image: url("http://i.imgur.com/QZl4wU0.jpg");
 }
@@ -5016,7 +5033,7 @@ a:visited {
 #julia-thompson-cover {
     background-image: url("http://i.imgur.com/95AcWIm.jpg");
   }
- 
+
 #julia-thompson-card {
     background-image: url("http://i.imgur.com/wIKLtDr.jpg");
 }
